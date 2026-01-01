@@ -22,5 +22,5 @@ The infrastructure consists of:
 - An existing S3 bucket (`much-terraform-state`) and DynamoDB table (`terraform-locks-correct`) for the backend.
 
 backend_public_ips = [
-  "54.78.169.107",
-  "34.241.4.222"
+  "(http://34.245.149.245:8080/)",
+  "(http://34.253.224.72:8080/)
